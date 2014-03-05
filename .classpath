@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/gwt/glib/aopalliance.jar"/>
+	<classpathentry kind="lib" path="F:/gwt/glib/gin-2.1.2.jar"/>
+	<classpathentry kind="lib" path="F:/gwt/glib/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="F:/gwt/glib/guice-assistedinject-3.0.jar"/>
+	<classpathentry kind="lib" path="F:/gwt/glib/javax.inject.jar"/>
+	<classpathentry kind="lib" path="F:/gwt/glib/mvp4g-1.4.0.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
